@@ -1,5 +1,5 @@
 # Reproducible Research
-Assigment 1
+Assignment 1
 =========================================
 
 ```{r setupoptions, echo = T, results = "hide"}

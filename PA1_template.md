@@ -1,5 +1,5 @@
 # Reproducible Research
-Assigment 1
+Assignment 1
 =========================================
 
 
@@ -37,7 +37,7 @@ dateDownloaded
 ```
 
 ```
-## [1] "2015-08-16 15:45:55 CEST"
+## [1] "2015-08-16 16:45:45 CEST"
 ```
 
 ```r
